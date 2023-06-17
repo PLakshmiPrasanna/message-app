@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding : 0;
+}
+
+#quote-box{
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
